@@ -1,0 +1,138 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    color: #5e5e5e;
+    font-family: "Open Sans", sans-serif;
+}
+
+header {
+
+    width: 100%;
+    background: #282828;
+}
+
+#headerTop {
+	width: 1000px;
+	margin: 0 auto;
+	height: 40px;
+	line-height: 40px;
+	color: #fff;
+	font-size: 0.8em;
+}
+
+
+
+#tel {
+	margin-right: 50px;
+	float: left;
+}
+
+#email {
+	float: left;
+}
+
+#lk {
+	float: right;
+}
+
+#lk a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#lk a:hover {
+	color: #eaeaea;
+	}
+
+#headerInside {
+	clear: both;
+    width: 100%;
+    height: 160px;
+    background-color: #eaeaea;
+}
+
+#headerCenter {
+	height: 120px;
+	width: 1000px;
+    margin: 0 auto;
+}
+
+#logoCompany {
+	float: left;
+	width: 240px;
+    height: 120px;
+	background: url('../images/logo.png') no-repeat;
+	background-size: cover;
+}
+
+#logoCompany a {
+	display: block;
+    height: 100%;
+}
+
+
+#basket {
+	float: right;
+	width: 35px;
+    height: 35px;
+    margin-top: 60px;
+	margin-right: 35px;
+	margin-bottom: 25px;
+	background: url('../images/basket.png') no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+}
+
+#basket a {
+	display: block;
+	height: 100%;
+}
+
+#basket:hover {
+	opacity: 1;
+}
+
+#basketFav {
+	float: right;
+	width: 35px;
+    height: 35px;
+    margin-top: 60px;
+	margin-bottom: 25px;
+	background: url('../images/fav.png') no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+}
+
+#basketFav a {
+	display: block;
+	height: 100%;
+}
+
+#basketFav:hover {
+    opacity: 1;
+}
+
+#menu {
+	height: 30px;
+	width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+	flex-direction: row;
+}
+
+#menu a {
+	text-align: center;
+    color: #5e5e5e;
+    display: block;
+    font-family: "Open Sans", sans-serif;
+    text-decoration: none;
+    height: 30px;
+    width: 250px;
+    line-height: 30px;
+
+}
+
+#menu a:hover {
+	color: black;
+}
