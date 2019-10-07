@@ -38,6 +38,7 @@ header {
 #lk a {
     text-decoration: none;
     color: #fff;
+    margin-left: 20px;
 }
 
 #lk a:hover {

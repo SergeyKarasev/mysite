@@ -13,8 +13,8 @@
         <div id="tel">tel. 555-55-55-55</div>
         <div id="email">appliances@appliances.com</div>
         <div id="lk">
-            <a href="#">войти</a>
-            <a href="#">зарегистрироваться</a>
+            <a href="#">Войти</a>
+            <a href="#">Зарегистрироваться</a>
         </div>
     </div>
     <div id="headerInside">

@@ -25,6 +25,10 @@
 					<a href="" class="prodMore">
 						В корзину
 					</a>
+					<a href="index.php?category=<?php echo $category; ?>" class="prodMore">
+					Назад
+					</a>
+
 				</div>
 			</div>
 		<?php endif; ?>
